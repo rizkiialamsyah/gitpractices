@@ -1,0 +1,2 @@
+# gitpractices
+Belajar Git Sync
